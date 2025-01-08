@@ -1,4 +1,16 @@
-## Hi there 👋
+## About me
+------------------------------
+
+M.S Student, Department of Psychology, Korea University (Seoul, Korea)    
+[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~)
+
+------------
+## Research Interest
+- Human-Computer Interaction
+- LLM
+- New Media
+
+
 
 <!--
 **JaeYeonBang/JaeYeonBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
