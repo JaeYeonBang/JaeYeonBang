@@ -2,7 +2,8 @@
 ------------------------------
 
 M.S Student, Department of Psychology, Korea University (Seoul, Korea)    
-[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~)    
+[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~)       
+
 E-mail: qkdwodus777@korea.ac.kr
 
 ------------
