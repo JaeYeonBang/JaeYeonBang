@@ -4,7 +4,7 @@ Hi! 🤗 My name is Jaeyeon Bang.
 I'm intrested in AI/new media research based on psychological mechanism.   
 Feel free to reach out for a coffee chat! ☕☕
 
-(The pfp is embellished version of me...)
+~~(The pfp is embellished version of me...)~~
 
 
 ## About me 
@@ -24,8 +24,8 @@ E-mail: qkdwodus777@korea.ac.kr
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/-SPSS-D70032?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 ### Publication
-- Bang, J., Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (in-press). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2].
-
+- Bang, J., Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (in-press). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2].
+_
 
 
 
