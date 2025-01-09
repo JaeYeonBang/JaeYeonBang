@@ -1,13 +1,19 @@
-## About me
 ------------------------------
+
+Hi! 🤗 My name is Jaeyeon Bang.    
+I'm intrested in AI/new media research based on psychological mechanism.   
+Feel free to reach out for a coffee chat! ☕☕
+
+
+## About me 
+
 
 M.S Student, Department of Psychology, Korea University (Seoul, Korea)    
 [Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~)       
 
 E-mail: qkdwodus777@korea.ac.kr
 
-------------
-## Research Interest
+### Research Interest
 - Human-Computer Interaction
 - LLM
 - New Media
