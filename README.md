@@ -4,6 +4,8 @@ Hi! 🤗 My name is Jaeyeon Bang.
 I'm intrested in AI/new media research based on psychological mechanism.   
 Feel free to reach out for a coffee chat! ☕☕
 
+(The pfp is embellished version of me...)
+
 
 ## About me 
 
