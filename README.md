@@ -27,7 +27,7 @@ E-mail: qkdwodus777@korea.ac.kr
 - Bang, J., Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (in-press). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._
 _
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeonBang&layout=compact)
 
 <!--
 **JaeYeonBang/JaeYeonBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
