@@ -24,7 +24,7 @@ E-mail: qkdwodus777@korea.ac.kr
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/-SPSS-D70032?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 ### Publication
--** Bang, J.**, Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (2025). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._
+- **Bang, J.**, Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (2025). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._
 - Moon, J., Kim, S., Jung, Y., **Bang, J.**, & Sung, Y. (in-press). The Effects of Explainability and User Control on Algorithmic Transparency: The Moderating Role of Algorithmic Literacy. Cyberpsychology, Behavior, and Social Networking [SSCI]. 
 
 ### Domestic Conference Presentations 
